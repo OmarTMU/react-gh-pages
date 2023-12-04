@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          First
+          First I downloaded NodeJS from 'https://nodejs.org/en' 
         </p>
         <a
           className="App-link"
