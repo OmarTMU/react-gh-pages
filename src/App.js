@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          First I downloaded NodeJS from 'https://nodejs.org/en' 
+          First I downloaded NodeJS from 'https://nodejs.org/en', then I created a react project, then I followed all the steps
+          from 'https://github.com/gitname/react-gh-pages'
         </p>
         <a
           className="App-link"
